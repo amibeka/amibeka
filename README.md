@@ -3,7 +3,7 @@
 Seja bem-vindo(a) ao nosso cantinho Amibeka! ✨
 Nós somos Micaela, Rebeka e Alicya — três mentes curiosas 💻🚀
 
-Sobre nós:
+## Sobre nós:
 
 👩‍💻 Apaixonadas por design e inovação.
 
@@ -13,7 +13,7 @@ Sobre nós:
 
 💬 A gente adora trocar ideias, então fique à vontade para mandar uma mensagem!
 
-O que você vai encontrar aqui:
+## O que você vai encontrar aqui:
 
 Projetos pessoais e em grupo 🧩
 
