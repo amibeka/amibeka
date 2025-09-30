@@ -1,7 +1,6 @@
-## OiOi. 😘
+## OiOi 😘
 Seja bem-vindo(a) ao nosso cantinho amibeka! ✨
 Nós somos Micaela, Rebeka e Alicya — três mentes curiosas 💻🚀
-
 ---
 ## Sobre nós:
 👩‍💻 Apaixonadas por design e inovação.
@@ -11,7 +10,6 @@ Nós somos Micaela, Rebeka e Alicya — três mentes curiosas 💻🚀
 🧠 Pensamento criativo + trabalho em equipe = nossa fórmula mágica.
 
 💬 A gente adora trocar ideias, então fique à vontade para mandar uma mensagem!
-
 ---
 ## O que você vai encontrar aqui:
 
