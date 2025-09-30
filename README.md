@@ -1,16 +1,19 @@
-## Hi there 👋
+## OiOi 😘
+Seja bem-vindo(a) ao nosso cantinho amibeka! ✨
+Nós somos Micaela, Rebeka e Alicya — três mentes curiosas 💻🚀
+---
+## Sobre nós:
 
-<!--
-**amibeka/amibeka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Apaixonadas por design e inovação.
 
-Here are some ideas to get you started:
+🌱 Sempre aprendendo algo novo (e passamos raiva no processo!).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Pensamento criativo + trabalho em equipe = nossa fórmula mágica.
+
+💬 A gente adora trocar ideias, então fique à vontade para mandar uma mensagem!
+---
+## O que você vai encontrar aqui:
+
+Projetos pessoais e em grupo 🧩
+
+Experimentos com novas linguagens e frameworks ⚙️
