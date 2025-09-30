@@ -14,7 +14,7 @@ SOBRE NÓS:
 💬 A gente adora trocar ideias, então fique à vontade para mandar uma mensagem!
 
 #
-O que você vai encontrar aqui:
+O QUE VOCÊ VAI ENCONTRAR AQUI:
 
 Projetos pessoais e em grupo 🧩
 
